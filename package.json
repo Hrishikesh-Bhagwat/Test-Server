@@ -1,0 +1,15 @@
+{
+  "name": "static_server",
+  "version": "1.0.0",
+  "description": "A static site server for testing Tradebooks website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Hello World",
+    "start": "node index.js"
+  },
+  "author": "Hrishikesh Bhagwat",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
